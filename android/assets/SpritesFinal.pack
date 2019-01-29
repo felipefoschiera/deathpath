@@ -1,0 +1,89 @@
+
+SpritesFinal.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+inimigo
+  rotate: false
+  xy: 1, 87
+  size: 512, 32
+  orig: 512, 32
+  offset: 0, 0
+  index: -1
+fantasma_espada
+  rotate: false
+  xy: 1, 53
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: -1
+fantasma
+  rotate: false
+  xy: 515, 87
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+portal
+  rotate: false
+  xy: 1, 19
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+caveira
+  rotate: false
+  xy: 195, 53
+  size: 89, 32
+  orig: 89, 32
+  offset: 0, 0
+  index: -1
+caveira_dano
+  rotate: false
+  xy: 613, 87
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+espada
+  rotate: false
+  xy: 99, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fantasma_attack
+  rotate: false
+  xy: 286, 53
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fantasma_espada_dano
+  rotate: false
+  xy: 647, 87
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ghost_dano
+  rotate: false
+  xy: 133, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fantasma_dano
+  rotate: false
+  xy: 320, 53
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
